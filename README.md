@@ -7,7 +7,7 @@
 - **Docker Hub repo:** https://hub.docker.com/r/mrsupreme/fest-backend
 
 ## AI tools used
-- Claude: generated the Dockerfiles, compose.yaml and commands, and explained errors. I ran every command myself on my own machine.
+- Claude: Took the steps, and explained errors. I ran every command myself and fixed bugs on my own machine.
 
 ## Digest of 1.0.0 as pushed to Docker Hub
 sha256:5e20889b924df2cfa353873a0f6f7b1b4e87b042a633fb2b0b170e4b7802559d
