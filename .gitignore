@@ -1,0 +1,5 @@
+*.key
+.env
+__pycache__/
+EOF
+git add .gitignore && git commit -m "gitignore"
